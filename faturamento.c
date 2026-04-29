@@ -1,13 +1,13 @@
 //Considere uma empresa comercial que vende os seus produtos de segunda-feira a sábado. Para cada dia
-da semana, a empresa arrecada um valor (em reais) com as vendas, denominado de faturamento.
-Escreva um programa que registre o faturamento de cada dia de uma semana e, então, determine o
-seguinte:
-1. O faturamento total da semana
-2. O faturamento diário médio
-3. O dia da semana com o menor faturamento
-4. O dia da semana com o maior faturamento
-O programa deve utilizar um vetor para armazenar o faturamento da semana: cada elemento do vetor
-corresponde ao faturamento de um dia.
+//da semana, a empresa arrecada um valor (em reais) com as vendas, denominado de faturamento.
+//Escreva um programa que registre o faturamento de cada dia de uma semana e, então, determine o
+//seguinte:
+//1. O faturamento total da semana
+//2. O faturamento diário médio
+//3. O dia da semana com o menor faturamento
+//4. O dia da semana com o maior faturamento
+//O programa deve utilizar um vetor para armazenar o faturamento da semana: cada elemento do vetor
+//corresponde ao faturamento de um dia.
 
 #include <stdio.h>
 

@@ -1,6 +1,6 @@
 //Escreva um programa em C que leia do teclado uma sequência de N caráteres e
-identifique se é ou não um palíndromo. O valor de N deve ser fornecido pelo usuário,
-antes da entrada da sequência de caráteres.
+//identifique se é ou não um palíndromo. O valor de N deve ser fornecido pelo usuário,
+//antes da entrada da sequência de caráteres.
 
 
 #include <stdio.h>

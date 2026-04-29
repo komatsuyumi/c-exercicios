@@ -1,5 +1,5 @@
 //Escreva um programa em C que leia do teclado um vetor de N caráteres, gere um
-novo vetor de caráteres na ordem inversa do primeiro e imprima os dois vetores.
+//novo vetor de caráteres na ordem inversa do primeiro e imprima os dois vetores.
 
 #include <stdio.h>
 
