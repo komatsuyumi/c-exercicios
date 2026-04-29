@@ -1,3 +1,8 @@
+Escreva um programa em C que leia do teclado dois vetores (A e B) com cinco
+elementos inteiros cada um, gere um terceiro vetor (S) com a soma dos
+correspondentes elementos dos dois primeiros ( S[i] = A[i] + B[i] ) e
+imprima os três vetores.
+
 #include <stdio.h>
 
 int main() {
@@ -8,7 +13,6 @@ int main() {
     for(int i = 0; i < 5; i++){
         printf("Digite um valor para o elemento %d do vetor A: ", i + 1);
         scanf("%d", &A[i]);
-    
     }
 
     for(int i = 0; i < 5; i++){

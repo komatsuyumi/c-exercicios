@@ -1,3 +1,8 @@
+//Escreva um programa em C que leia do teclado um vetor de N elementos reais,
+imprima esse vetor e, depois, imprima a soma dos elementos equidistantes, isto é,
+imprime a soma do primeiro com último, depois a soma do segundo com o penúltimo,
+e assim por diante.
+
 #include <stdio.h>
 
 int main() {
